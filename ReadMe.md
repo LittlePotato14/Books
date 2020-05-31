@@ -1,4 +1,4 @@
 
-![alt-текст](https://github.com/LittlePotato14/Books/blob/master/work.png "Скрин консоли")
-# Точилина Полина БПИ199
-### [Ссылка на условие](https://docs.google.com/document/d/1iQDiyBXgWBV71IYMM-40Tf7FF2EUA9ObnnPOh6fwWoc/edit)
+![alt-С‚РµРєСЃС‚](https://github.com/LittlePotato14/Books/blob/master/work.png "РЎРєСЂРёРЅ РєРѕРЅСЃРѕР»Рё")
+# РўРѕС‡РёР»РёРЅР° РџРѕР»РёРЅР° Р‘РџР199
+### [РЎСЃС‹Р»РєР° РЅР° СѓСЃР»РѕРІРёРµ](https://docs.google.com/document/d/1iQDiyBXgWBV71IYMM-40Tf7FF2EUA9ObnnPOh6fwWoc/edit)
